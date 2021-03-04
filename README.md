@@ -21,11 +21,6 @@ git config --global user.email your@email.com
 git config --list"
 ```
 
-```php
-popopopopopo popoponm klklklklklklklklklk
-<php?                                        >
-```
-
 ---
 ### Setup GIT with SSH Key
 * **Step 1** Download GIT Bash [from here.](https://git-scm.com/downloads) & Install with recommended settings.
