@@ -4,19 +4,19 @@ A guide to use GitHub
 
 ### Git Global Configuration
 
-* For just one repo:
+* **For just one repo:**
 ``` html
 git config user.name "Your Name Here"
 git config user.email your@email.com
 ```
 
-* For (global) default email (which is configured in your ~/.gitconfig):
+* **For (global) default email (which is configured in your ~/.gitconfig):**
 ``` html
 git config --global user.name "Your Name Here"
 git config --global user.email your@email.com
 ```
 
-* For check configuration:
+* **For check configuration:**
 ``` html
 git config --list"
 ```
